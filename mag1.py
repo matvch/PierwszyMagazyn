@@ -10,7 +10,7 @@ inventory = [
 
 # --- Interfejs Użytkownika Streamlit ---
 
-st.title("🗑️ Magazyn Tymczasowy (Bez Pamięci)")
+st.title("🗑️ Magazyn Mateusza")
 st.markdown("Lista jest resetowana po każdej interakcji, ponieważ nie używa ani sesji, ani plików.")
 
 # --- Sekcja Dodawania Towaru ---
