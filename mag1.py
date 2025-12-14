@@ -12,7 +12,7 @@ inventory = {
 
 # --- Interfejs Użytkownika Streamlit ---
 
-st.title("🗑️ Magazyn Mateusza z Ilością Sztuk")
+st.title("🗑️ Magazyn Mateusza")
 st.markdown("Dane są resetowane po każdej interakcji, ponieważ nie używa się sesji/plików.")
 
 # --- Sekcja Dodawania Towaru ---
