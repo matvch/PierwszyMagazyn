@@ -24,7 +24,7 @@ def get_order_status(quantity):
 
 # --- Interfejs Użytkownika Streamlit ---
 
-st.title("🗑️ Magazyn Mateusza z Oceną Stanu")
+st.title("Magazyn Mateusza 🚚")
 st.markdown("Dane są resetowane po każdej interakcji, ponieważ nie używa się sesji/plików.")
 
 # --- Sekcja Dodawania Towaru ---
